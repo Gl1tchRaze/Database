@@ -1,0 +1,19 @@
+# Compiled programs
+*.exe
+*.o
+*.obj
+*.out
+
+# Build folder created by the VS Code C/C++ Runner extension
+build/
+
+# Database files created by running the programs (rebuilt on each run)
+*.db
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+*.swp
+
+# Note: .vscode/ is deliberately NOT ignored. settings.json holds the
+# C_Cpp_Runner C++17 setting the project needs to build correctly.
